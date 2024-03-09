@@ -26,14 +26,14 @@ Done!!!
 
 ```
 - Assets:
-		- Material:
-				| - Black, Green, Blue, Red, Yellow; (standart materials)
-		- Scenes:
-				| - Bowling;
-				| - SampleGun;
-		- VRGun:
-				| - Enemy.cs;
-				| - Fire.cs;
-				| - pistol1.fbx;
-				| - prefab;
+	- Material:
+		| - Black, Green, Blue, Red, Yellow; (standart materials)
+	- Scenes:
+		| - Bowling;
+		| - SampleGun;
+	- VRGun:
+		| - Enemy.cs;
+		| - Fire.cs;
+		| - pistol1.fbx;
+		| - prefab;
 ```
